@@ -1,28 +1,32 @@
-## Bee Functional Trait Database
+## Toward a functional trait approach to bee ecology
 
-[```Functional Trait Data Repositories```](#functional-traits) / [```Contribute```](#contribute) / [```Guide to the Data Upload Template```](#data-definitions) / [```Citation```](#citation) / [```Acknowledgements```](#acknowledgements)
+[Madeleine M. Ostwald](https://orcid.org/0000-0002-9869-8835), Victor H. Gonzalez, Carrie Change, Nydia Vitale, Mariano Lucia,[Katja C. Seltmann](https://orcid.org/0000-0001-5354-6048)
 
-The Bee Functional Trait Database is a repository for bee functional trait data, including data on morphological, physiological, ecological, and behavioral traits. Observations are sourced from the literature, data records, and published and unpublished datasets.
+In review
+
+### Abstract
+
+Bee functional traits are increasingly being used to predict species-level responses to environmental change. Trait data are abundant in the bee literature, yet we currently lack data standards for trait measurement and data sharing, hindering opportunities for meta-analyses that could reveal large-scale patterns in bee functional ecology. Here, we analyze the state of bee functional trait research across 97 studies, reviewing common trait measurement approaches and knowledge gaps in bee functional ecology. These studies were overwhelmingly situated in agroecosystems and focused predominantly on morphological and behavioral traits, especially body size, nesting biology, diet breadth, and sociality. Phenological traits were infrequently measured and physiological traits were nearly absent from our dataset. Studies investigating climate change effects were also rare. Terminology for trait classifiers were rarely defined, presenting obstacles to data aggregation. We present a roadmap toward open sharing and consolidation of bee trait data, highlighting best practices for standardizing data presentation and making datasets accessible. Along with our review, we present an aggregated morphological trait dataset compiled from our focal studies, representing ___ bee species globally and serving as a template for standardized bee trait data presentation. This framework will facilitate data homogenization and lays the groundwork for standardized and open trait data collection and sharing to advance bee ecological research. 
+
+### Contents
+
+* **Supplementary Table 1**
+  Summarized information on functional traits commonly measured in bee ecological studies, with their functional significance, common methods of measurement in bee studies, and common states for traits involving categorical data. We additionally highlight traits that have been infrequently measured in functional trait studies (e.g., desiccation resistance, thermal tolerance, coloration), but which merit further attention due to their relevance to bee fitness and ecological interactions.
+
+* **Supplementary Table 2**
+  Metadata from 97 studies analyzed in our review, including citations, the traits analyzed, the types of trait measurements, and the data sources.
+  
+* **Supplementary Table 3**
+  Trait classes, definitions, and associated data sources, where available, for the three most commonly studied behavioral traits: nesting biology, sociality, and diet breadth.
+
+* **Supplementary Table 4**
+  Primary morphological data compiled from our focal studies homogenized in a standardized format, described below (see "Guide to the Morphological Dataset and the Data Upload Template).
+
+* **Supplementary Table 5**
+  Template for standardized presentation of trait data. Column headers described below (see "Guide to the Morphological Dataset and the Data Upload Template).
 
 
-### Functional Trait Data Repositories
-
-* **Body Size**
-<br/>[GitHub repository](https://github.com/Big-Bee-Network/bee-body-size)
-* **Thermal Tolerance**
-* **Diet Breadth and Floral Interactions**
-<br/>[GitHub repository](https://github.com/Big-Bee-Network/global-bee-interaction-data)<br/>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6564718.svg)](https://doi.org/10.5281/zenodo.6564718)
-
-### Contribute
-
-To contribute a new dataset, please download the following [template](https://github.com/Big-Bee-Network/bee-functional-trait-database/blob/main/beeTraitDatabaseTemplate_19Apr23.csv) and input your data according to the "Guide to the Data Upload Template" below. The first row in the template is an example and should be deleted before upload. Then, [open an issue here](https://github.com/Big-Bee-Network/bee-functional-trait-database/issues/new) and provide a link to the dataset and how you would like your dataset cited. 
-
-### Trait and Class Definitions
-
-A spreadsheet containing definitions of traits and classes is provided here:
-To submit a new trait or class...
-
-### Guide to the Data Upload Template
+### Guide to the Morphological Dataset and the Data Upload Template
 
 Below are definitions of the columns used in the trait dataset template. Where they correspond with the Darwin Core Standard (https://dwc.tdwg.org) they are mapped to those classes. 
   * **basisOfRecord**: [DWC:BasisOfRecord](http://rs.tdwg.org/dwc/terms/basisOfRecord) The specific nature of the data record (character). Eligible values include: ```own measurement/observation```, ```literature record```, or ```ocurrence record```.

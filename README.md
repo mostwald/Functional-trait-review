@@ -4,6 +4,8 @@
 
 In review
 
+[![DOI](https://zenodo.org/badge/719257598.svg)](https://zenodo.org/doi/10.5281/zenodo.10139286)
+
 ### Abstract
 
 Bee functional traits are increasingly being used to predict species-level responses to environmental change. Trait data are abundant in the bee literature, yet we currently lack data standards for trait measurement and data sharing, hindering opportunities for meta-analyses that could reveal large-scale patterns in bee functional ecology. Here, we analyze the state of bee functional trait research across 97 studies, reviewing common trait measurement approaches and knowledge gaps in bee functional ecology. These studies were overwhelmingly situated in agroecosystems and focused predominantly on morphological and behavioral traits, especially body size, nesting biology, diet breadth, and sociality. Phenological traits were infrequently measured and physiological traits were nearly absent from our dataset. Studies investigating climate change effects were also rare. Terminology for trait classifiers were rarely defined, presenting obstacles to data aggregation. We present a roadmap toward open sharing and consolidation of bee trait data, highlighting best practices for standardizing data presentation and making datasets accessible. Along with our review, we present an aggregated morphological trait dataset compiled from our focal studies, representing ___ bee species globally and serving as a template for standardized bee trait data presentation. This framework will facilitate data homogenization and lays the groundwork for standardized and open trait data collection and sharing to advance bee ecological research. 

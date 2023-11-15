@@ -1,6 +1,6 @@
 ## Toward a functional trait approach to bee ecology
 
-[Madeleine M. Ostwald](https://orcid.org/0000-0002-9869-8835), Victor H. Gonzalez, Carrie Change, Nydia Vitale, Mariano Lucia,[Katja C. Seltmann](https://orcid.org/0000-0001-5354-6048)
+[Madeleine M. Ostwald](https://orcid.org/0000-0002-9869-8835), [Victor H. Gonzalez](https://orcid.org/0000-0002-4146-1634), Carrie Chang, Nydia Vitale, [Mariano Lucia](https://orcid.org/0000-0001-8019-6768), [Katja C. Seltmann](https://orcid.org/0000-0001-5354-6048)
 
 In review
 

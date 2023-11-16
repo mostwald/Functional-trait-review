@@ -28,7 +28,7 @@ Bee functional traits are increasingly being used to predict species-level respo
   Template for standardized presentation of trait data. Column headers described below (see "Guide to the Morphological Dataset and the Data Upload Template).
 
 
-### Guide to the Morphological Dataset and the Data Upload Template
+### Guide to the Morphological Trait Dataset and the Data Upload Template
 
 Below are definitions of the columns used in the trait dataset template. Where they correspond with the Darwin Core Standard (https://dwc.tdwg.org) they are mapped to those classes. 
 

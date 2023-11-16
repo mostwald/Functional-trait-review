@@ -35,7 +35,7 @@ Below are definitions of the columns used in the trait dataset template. Where t
 #### Reference data
 
 * **associatedReferences**: [DWC:associatedReferences](http://rs.tdwg.org/dwc/terms/associatedReferences) A list (concatenated and separated) of identifiers (publication, bibliographic reference, global unique identifier, URI) of literature associated with the trait measurement.
-* **associatedReferencesID**:
+* **associatedReferencesID**: The global unique identifier (DOI) for the associated reference.
 
 
 #### Taxonomic data

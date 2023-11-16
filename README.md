@@ -32,25 +32,25 @@ Bee functional traits are increasingly being used to predict species-level respo
 
 Below are definitions of the columns used in the trait dataset template. Where they correspond with the Darwin Core Standard (https://dwc.tdwg.org) they are mapped to those classes. 
 
-## Reference data
+#### Reference data
 
 * **associatedReferences**: [DWC:associatedReferences](http://rs.tdwg.org/dwc/terms/associatedReferences) A list (concatenated and separated) of identifiers (publication, bibliographic reference, global unique identifier, URI) of literature associated with the trait measurement.
 * **associatedReferencesID**:
 
 
-## Taxonomic data
+#### Taxonomic data
 
 * **acceptedNameUsage**: [DWC:acceptedNameUsage](http://rs.tdwg.org/dwc/terms/acceptedNameUsage) The full name, with authorship and date information if known, of the currently valid taxon, e.g., ```*Xylocopa sonorina* Smith, 1874```.
 * **acceptedNameUsageID**: [DWC:acceptedNameUsageID](http://rs.tdwg.org/dwc/terms/acceptedNameUsageID) An identifier for the name usage (documented meaning of the name according to a source) of the currently valid taxon, e.g., ```tsn:684982```.
 
 
-## Trait data
+#### Trait data
 
 * **traitName**: The relevant functional trait (character), e.g., ```body size```, ```tongue size```, ```pilosity```, etc.
 * **traitNameID**: An identifier for the functional trait name.
 
 
-## Measurement data
+#### Measurement data
 
 * **measurementType**: [DWC:measurementType](http://rs.tdwg.org/dwc/terms/measurementType) The nature of the measurement, fact, characteristic, or assertion, e.g., ```body mass```, ```hair length```.
 * **measurementTypeID**: An identifier for the measurement type.
@@ -64,7 +64,7 @@ Below are definitions of the columns used in the trait dataset template. Where t
 * **variance**: A measure of variance in the measurement value, if applicable, typically for reported mean values.
 * **varianceMeasure**: The type of value represented in the variance field, if applicable, e.g., ```standard deviation```,  ```standard error```.
 
-## Occurrence Data
+#### Occurrence Data
 
 * **recordNumber**: [DWC:recordNumber](http://rs.tdwg.org/dwc/terms/recordNumber) An identifier given to the occurrence at the time it was recorded. Often serves as a link between field notes and an occurrence record, such as a specimen collector's number, or an individual identifier assigned to a bee during an experiment. This identifier can link individual bees across trait datasets, when multiple functional traits are recorded for a single individual.
 * **catalogNumber**: [DWC:catalogNumber](http://rs.tdwg.org/dwc/terms/catalogNumber) An identifier for the record within an established natural history collection.

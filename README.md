@@ -40,7 +40,7 @@ Below are definitions of the columns used in the trait dataset template. Where t
 
 #### Taxonomic data
 
-* **acceptedNameUsage**: [DWC:acceptedNameUsage](http://rs.tdwg.org/dwc/terms/acceptedNameUsage) The full name, with authorship and date information if known, of the currently valid taxon, e.g., ```Xylocopa sonorina Smith, 1874```.
+* **acceptedNameUsage**: [DWC:acceptedNameUsage](http://rs.tdwg.org/dwc/terms/acceptedNameUsage) The full name, with authorship and date information if known, of the currently valid taxon, e.g., ```Xylocopa sonorina Smith, 1874```. In this dataset, we have included the verbatim name as indicated by the studies' authors.
 * **acceptedNameUsageID**: [DWC:acceptedNameUsageID](http://rs.tdwg.org/dwc/terms/acceptedNameUsageID) An identifier for the name usage (documented meaning of the name according to a source) of the currently valid taxon, e.g., ```tsn:684982```.
 
 

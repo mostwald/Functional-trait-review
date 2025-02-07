@@ -1,6 +1,6 @@
 ## Toward a functional trait approach to bee ecology
 
-In review
+Ostwald MM, Gonzalez VH, Chang C, Vitale N, Lucia M, Seltmann KC. 2024. Toward a functional trait approach to bee ecology. Ecology and Evolution, 14, e70465. 
 
 [![DOI](https://zenodo.org/badge/719257598.svg)](https://zenodo.org/doi/10.5281/zenodo.10139286)
 
